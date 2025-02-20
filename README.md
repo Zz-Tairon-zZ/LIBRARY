@@ -26,7 +26,6 @@ proyecto-biblioteca/
 │       ├── com/dam/model/Genre.java                 # enum usado por la clase Book.java
 │   ├── com/dam/controller/                          # Controladores (LibraryManager)
 │       ├── com/dam/controller/LibraryManager.java
-│       ├── com/dam/controller/UserManager.java
 │   ├── com/dam/view/                                # Vista en consola (Console)
 │       ├── com/dam/view/console.java
 │-- README.md
